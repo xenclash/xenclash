@@ -4,7 +4,7 @@
 ###
 
 <div align="center">
-  <img height="140" src="https://media.tenor.com/aL6u1dD81h8AAAAj/tkmiz-tsukumizu.gif"  />
+  <img height="140" src="https://i.pinimg.com/originals/17/16/50/171650766f341c6e9b809184f2b7ee95.gif"  />
 </div>
 
 ###
