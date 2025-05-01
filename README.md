@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">Hi 👋 I'm Marcelo, a self taught Cybersecurity Engineer from the U.S<br><br>- 💻 I’m working as a freelance Pentester & Network Engineer / Administrator.<br>- 📚 I'm currently learning C++ and Ruby.<br>- ⚡ In my free time I try to learn and improve my skills on Hack The Box and experiment with my Home Network System!<br>-🌎 I am fluent in English, intermediate in German & Japanese, and I am currently a beginner in Mandarin Chinese.</p>
+<p align="left">Hi 👋 I'm Marcelo, a self taught Cybersecurity Engineer from the U.S with 6 years of experience<br><br>- 💻 I’m working as a freelance Pentester & Network Engineer / Administrator.<br>- 📚 I'm currently learning C++ and Ruby.<br>- ⚡ In my free time I try to learn and improve my skills on Hack The Box and experiment with my Home Network System!<br>-🌎 I am fluent in English, intermediate in German & Japanese, and I am currently a beginner in Mandarin Chinese.</p>
 
 ###
 
