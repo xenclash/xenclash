@@ -1,4 +1,4 @@
-<h2 align="left">Hi I'm Marcelo, a Security Engineer / Network Architect with 6 years of experience.</h2>
+<h2 align="left">Hi I'm Marcelo, a Security Engineer & Network Architect.</h2>
 
 ###
 
