@@ -1,4 +1,4 @@
-<h2 align="center">Hey! 👋 I am Marcelo, a Cloud, Security, & Network Engineer from the U.S</h2>
+<h2 align="center">Hey! 👋 I am Marcelo, a Cloud Security / Network Engineer from the U.S</h2>
 
 ###
 
