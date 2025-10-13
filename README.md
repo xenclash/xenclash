@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="180" src="https://raw.githubusercontent.com/xenclash/xenclash/refs/heads/main/welcome.gif"  />
+  <img height="180" src="https://raw.githubusercontent.com/xenclash/xenclash/refs/heads/main/sleep.gif"  />
 </div>
 
 ###
 
-<h2 align="center">👋Hey! I am Marcelo or Xenclash, a Cloud Security / Network Engineer👋</h2>
+<h2 align="center">👋 Hey! I am Marcelo or Xenclash, a Cloud Security / Network Engineer.</h2>
 
 ###
 
@@ -14,15 +14,15 @@
 
 ###
 
-<h2 align="left">💡 My Skills, & what I am improving on</h2>
+<h2 align="left">💡 About Xenclash</h2>
 
 ###
 
-<h4 align="left">☁️ Cloud: | AWS | Azure | Google Cloud | DigitalOcean | Docker | Kubernetes | Proxmox |<br>🛜 Networking: | Cisco | Dell | Juniper Networks | Netgear | Palo Alto Networks |<br>🧑‍💻 Ethical Hacking: | Kali Linux | Burp Suite | Python | Custom Scripts |</h4>
+<h4 align="left">I'm a Cybersecurity enthusiast with a strong focus on Cloud Security and Network Engineering. I specialize in securing cloud environments, optimizing network infrastructures, and ensuring systems are resilient against  cyber threats.<br><br>In addition to my full-time work, I also do some Ethical Hacking / Bug Bounty programs, where I hunt for vulnerabilities and work with organizations to strengthen their security.<br><br>Here’s a quick overview of what I do:<br><br>• Cloud Security: Architecting and securing cloud infrastructures (AWS, Azure, Google, DigitalOcean, Kubernetes)<br>• Network Engineering: Designing and optimizing scalable, secure networks<br>• Ethical Hacking & Bug Bounties: Identifying vulnerabilities and assisting organizations</h4>
 
 ###
 
-<h2 align="left">👾 Current Tech Stack</h2>
+<h2 align="left">🧑‍💻 Current Tech Stack, & what I am learning</h2>
 
 ###
 
@@ -64,9 +64,18 @@
 
 ###
 
+<h2 align="left">✉️ How to contact me</h2>
+
+###
+
+<h4 align="left">Telegram: t.me/xenclash<br>ProtonMail: contact.xenclash@pm.me<br>HackerOne: xenclash@wearehackerone.com</h4>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xenclash&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=xenclash&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xenclash&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
