@@ -1,21 +1,32 @@
-<h2 align="center">Hey! 👋 I am Marcelo, a Cloud Security / Network Engineer from the U.S</h2>
-
-###
-
 <div align="center">
-  <img height="400" src="https://64.media.tumblr.com/1a770f3dbda4d99798eb407021f248b8/tumblr_of9dw4lJjx1qciqqno1_1280.gif"  />
+  <img height="180" src="https://raw.githubusercontent.com/xenclash/xenclash/refs/heads/main/welcome.gif"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xenclash&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="155" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xenclash&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="175" alt="languages graph"  />
-</div>
+<h2 align="center">👋Hey! I am Marcelo or Xenclash, a Cloud Security / Network Engineer👋</h2>
 
 ###
 
 <div align="center">
+  <img height="410" src="https://raw.githubusercontent.com/xenclash/xenclash/refs/heads/main/pixelart.gif"  />
+</div>
+
+###
+
+<h2 align="left">💡 My Skills, & what I am improving on</h2>
+
+###
+
+<h5 align="left">• Cloud: | AWS | Azure | Google Cloud | DigitalOcean | Docker | Kubernetes | Proxmox |<br>• Networking: | Cisco | Dell | Juniper Networks | Netgear | Palo Alto Networks |<br>• Ethical Hacking: | Kali Linux | Burp Suite | Python | Custom Scripts |</h5>
+
+###
+
+<h2 align="left">👾 Current Tech Stack</h2>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -29,6 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="30" alt="ssh logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -48,7 +61,40 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
+</div>
+
+###
+
+<h2 align="left">✉️ Ways to get into contact with me</h2>
+
+###
+
+<div align="left">
+  <a href="t.me/xenclash" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
+  </a>
+  <a href="contact@xenclash@pm.me" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=ProtonMail&logo=tutanota&label=&color=9F2B68&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="tutanota logo"  />
+  </a>
+  <a href="xenclash@wearehackerone.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Wearehackerone%20email&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="itch logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xenclash&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=xenclash&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="50" src="https://raw.githubusercontent.com/xenclash/xenclash/refs/heads/main/notepad.gif"  />
 </div>
 
 ###
