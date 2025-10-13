@@ -18,7 +18,7 @@
 
 ###
 
-<h4 align="left">• Cloud: | AWS | Azure | Google Cloud | DigitalOcean | Docker | Kubernetes | Proxmox |<br>• Networking: | Cisco | Dell | Juniper Networks | Netgear | Palo Alto Networks |<br>• Ethical Hacking: | Kali Linux | Burp Suite | Python | Custom Scripts |</h4>
+<h4 align="left">☁️ Cloud: | AWS | Azure | Google Cloud | DigitalOcean | Docker | Kubernetes | Proxmox |<br>🛜 Networking: | Cisco | Dell | Juniper Networks | Netgear | Palo Alto Networks |<br>🧑‍💻 Ethical Hacking: | Kali Linux | Burp Suite | Python | Custom Scripts |</h4>
 
 ###
 
@@ -61,27 +61,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
-</div>
-
-###
-
-<h2 align="left">✉️ Ways to get into contact with me</h2>
-
-###
-
-<div align="left">
-  <a href="t.me/xenclash" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
-  </a>
-  <a href="contact@xenclash@pm.me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=ProtonMail&logo=tutanota&label=&color=9F2B68&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="tutanota logo"  />
-  </a>
-  <a href="xenclash@wearehackerone.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Wearehackerone%20email&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="itch logo"  />
-  </a>
 </div>
 
 ###
