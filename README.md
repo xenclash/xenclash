@@ -18,7 +18,7 @@
 
 ###
 
-<h5 align="left">• Cloud: | AWS | Azure | Google Cloud | DigitalOcean | Docker | Kubernetes | Proxmox |<br>• Networking: | Cisco | Dell | Juniper Networks | Netgear | Palo Alto Networks |<br>• Ethical Hacking: | Kali Linux | Burp Suite | Python | Custom Scripts |</h5>
+<h4 align="left">• Cloud: | AWS | Azure | Google Cloud | DigitalOcean | Docker | Kubernetes | Proxmox |<br>• Networking: | Cisco | Dell | Juniper Networks | Netgear | Palo Alto Networks |<br>• Ethical Hacking: | Kali Linux | Burp Suite | Python | Custom Scripts |</h4>
 
 ###
 
