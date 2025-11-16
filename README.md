@@ -102,7 +102,7 @@
 
 ###
 
-<h4 align="left">Telegram: t.me/xenclash<br>ProtonMail: contact.xenclash@pm.me<br>HackerOne: xenclash@wearehackerone.com</h4>
+<h4 align="left">Telegram: t.me/xenclash<br>ProtonMail: contact.xenclash@pm.me<br>
 
 ###
 
