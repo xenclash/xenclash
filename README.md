@@ -97,8 +97,8 @@
 ###
 
 <h2 align="left">✉️ Contact me</h2>
-Telegram: xenclash<br>
-Email: contact.xenclash@pm.me<br>
+<h4 align="left">Telegram: xenclash<br></h2>
+<h4 align="left">Email: contact.xenclash@pm.me<br></h2>
 
 ###
 
