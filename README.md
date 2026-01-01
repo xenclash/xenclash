@@ -3,7 +3,7 @@
 
 ###
 
-<h2 align="center">👋 Hey! I'm xenclash, a Cloud Security / Network Engineer.</h2>
+<h2 align="center">Hey 👋 What's up? I'm xenclash, a Cloud Security & Network Engineer.</h2>
 
 ###
 
