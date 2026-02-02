@@ -16,7 +16,7 @@
 
 ###
 
-<h4 align="left">I'm a Cybersecurity enthusiast with a strong focus on Cloud Security, Network Engineering and Security Research. I specialize in securing cloud environments, optimizing network infrastructures, and ensuring systems are resilient against cyber threats.<br><br>In addition to my full-time work, I also do some Security Researching, where I hunt for vulnerabilities and work with organizations to strengthen their security.<br><br>Here’s a quick overview of what I do:<br><br>• Cloud Security: Architecting and securing cloud infrastructures (AWS, Azure, Google, DigitalOcean)<br>• Network Engineering: Designing and optimizing scalable, secure networks<br>• Security Researching: Identifying vulnerabilities and assisting organizations</h4>
+<h4 align="left">I'm a Cybersecurity enthusiast with a strong focus on Cloud Security, Network Engineering and Security Research. I specialize in securing cloud environments, optimizing network infrastructures, and ensuring systems are resilient against cyber threats.<br><br>In addition to my full-time work, I also do some Security Researching, where I hunt for vulnerabilities and work with organizations to strengthen their security.<br><br>Here’s a quick overview of what I do:<br><br>• Cloud Security: Architecting and securing cloud infrastructures (AWS, Azure, Google Cloud, DigitalOcean)<br>• Network Engineering: Designing and optimizing scalable, secure networks<br>• Security Researching: Identifying vulnerabilities and assisting organizations</h4>
 
 ###
 
