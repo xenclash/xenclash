@@ -1,26 +1,20 @@
-<div align="center">
-</div>
+<img align="right" height="125" src="https://raw.githubusercontent.com/xenclash/xenclash/refs/heads/main/icon.png"  />
 
 ###
 
-<h2 align="center">Hey 👋 What's up? I'm xenclash, a Cloud Security & Network Engineer.</h2>
+Hey what's up? I'm xenclash, a <ruby>Cloud & Network Engineer<rt><ins>クラウドおよびネットワークエンジニア</ins></rt></ruby> | <ruby>CTF Player<rt><ins>CTFプレイヤー</ins></rt></ruby> | <ruby>Security Researcher<rt><ins>セキュリティ研究者</ins></rt></ruby>
 
 ###
 
-<div align="center">
-</div>
+<p align="left">---<br>⚙️ Here is a little about me...<br>---</p>
 
 ###
 
-<h2 align="left">💡 About me</h2>
+<p align="left">I'm a Cybersecurity enthusiast with a strong focus on Cloud Security, Network Engineering and Security Research. I specialize in securing cloud environments, optimizing network infrastructures, and ensuring systems are resilient against cyber threats.<br><br>In addition to my full-time work, I also do some Security Researching, where I hunt for vulnerabilities and work with organizations to strengthen their security.<br><br>• ☁️ <mark>Cloud Security</mark>: Architecting and securing cloud infrastructures (AWS, Azure, Google Cloud, DigitalOcean)<br>• 🛜 <mark>Network Engineering</mark>: Designing and optimizing scalable, secure networks<br>• 🔒 <mark>Security Researching</mark>: Identifying vulnerabilities and assisting organizations</p>
 
 ###
 
-<h4 align="left">I'm a Cybersecurity enthusiast with a strong focus on Cloud Security, Network Engineering and Security Research. I specialize in securing cloud environments, optimizing network infrastructures, and ensuring systems are resilient against cyber threats.<br><br>In addition to my full-time work, I also do some Security Researching, where I hunt for vulnerabilities and work with organizations to strengthen their security.<br><br>Here’s a quick overview of what I do:<br><br>• Cloud Security: Architecting and securing cloud infrastructures (AWS, Azure, Google Cloud, DigitalOcean)<br>• Network Engineering: Designing and optimizing scalable, secure networks<br>• Security Researching: Identifying vulnerabilities and assisting organizations</h4>
-
-###
-
-<h2 align="left">🧑‍💻 Current Tech Stack, & what I am learning</h2>
+<p align="left">---<br>🛠️ Current tech stack, & what I am learning...<br>---</p>
 
 ###
 
@@ -92,11 +86,6 @@
   <img src="https://cdn.simpleicons.org/redhat/EE0000" height="30" alt="redhat logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
-</div>
-
-###
-
-<div align="center">
 </div>
 
 ###
