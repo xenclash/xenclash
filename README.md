@@ -6,7 +6,7 @@ Hey what's up? I'm xenclash, a <ruby>Cloud & Network Engineer<rt><ins>クラウ�
 
 ###
 
-<p align="left">---<br>⚙️ Here is a little about me...<br>---</p>
+<p align="left">---<br>Here is a little about me...<br>---</p>
 
 ###
 
@@ -14,7 +14,7 @@ Hey what's up? I'm xenclash, a <ruby>Cloud & Network Engineer<rt><ins>クラウ�
 
 ###
 
-<p align="left">---<br>🛠️ Current tech stack, & what I am learning...<br>---</p>
+<p align="left">---<br>Current tech stack, & what I am learning...<br>---</p>
 
 ###
 
