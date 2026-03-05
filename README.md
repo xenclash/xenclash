@@ -1,5 +1,3 @@
-<img align="right" height="125" src="https://raw.githubusercontent.com/xenclash/xenclash/refs/heads/main/icon.png"  />
-
 ###
 
 Hey what's up? I'm xenclash, a <ruby>Cybersecurity Engineer<rt><ins>サイバーセキュリティエンジニア</ins></rt></ruby> | <ruby>CTF Player<rt><ins>CTFプレイヤー</ins></rt></ruby> | <ruby>Security Researcher<rt><ins>セキュリティ研究者</ins></rt></ruby>
