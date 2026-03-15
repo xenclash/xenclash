@@ -29,10 +29,6 @@ Hey what's up? I'm xenclash, a <ruby>Cybersecurity Engineer<rt><ins>サイバー
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="30" alt="azuresqldatabase logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
@@ -72,8 +68,6 @@ Hey what's up? I'm xenclash, a <ruby>Cybersecurity Engineer<rt><ins>サイバー
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" height="30" alt="kalilinux logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="30" alt=archlinux logo" />
   <img width="12" /> 
