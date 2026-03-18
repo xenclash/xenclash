@@ -10,4 +10,7 @@ Hey what's up? I'm xenclash, a <ruby>Cybersecurity Engineer<rt><ins>サイバー
 
 <p align="left">I'm a Cybersecurity enthusiast with a strong focus on Cloud and Network security, and Security Research. I specialize in securing cloud environments, network infrastructures, and ensuring systems are resilient against cyber threats.<br><br>In addition to my full-time work, I also do some Security Researching, where I do osint, malware analysis, and hunt for vulnerabilities working with organizations to strengthen their security.<br><br>• ☁️ <mark>Cloud Security</mark>: Architecting and securing cloud infrastructures (AWS, Azure, Google Cloud, DigitalOcean)<br>• 🛜 <mark>Network Security</mark>: Designing and optimizing scalable, secure networks<br>• 🔒 <mark>Security Researching</mark>: Identifying vulnerabilities and assisting organizations</p>
 
-###
+
+<hr/>
+<a accesskey="r" href="https://www.youtube.com/watch?v=I1ETgb9q7XM"></a>
+<sup>🎵🎵🎵 <kbd>Alt+Shift+R</kbd></sup>
