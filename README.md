@@ -12,5 +12,5 @@
 
 
 <hr/>
-<a accesskey="r" href="https://www.youtube.com/watch?v=I1ETgb9q7XM"></a>
-<sup>🎵 <kbd>Alt+Shift+R</kbd></sup>
+<a accesskey="r" href="https://www.youtube.com/watch?v=S4BkdIi3XiY&list=RDS4BkdIi3XiY&start_radio=1"></a>
+<sup>🥁🎵 <kbd>Alt+Shift+R</kbd></sup>
