@@ -10,5 +10,5 @@ Hey what's up? I'm xenclash, a <ruby>Cybersecurity Engineer<rt><ins>サイバー
 
 
 <hr/>
-<a accesskey="r" href="https://www.youtube.com/watch?v=S4BkdIi3XiY&list=RDS4BkdIi3XiY&start_radio=1"></a>
+<a accesskey="r" https://www.youtube.com/watch?v=S4BkdIi3XiY&list=OLAK5uy_mnzaNQzXCCCJpscxeqJeGMKm0DmkE63UM&index=2"></a>
 <sup>🥁🎵 <kbd>Alt+Shift+R</kbd></sup>
