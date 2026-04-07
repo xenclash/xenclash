@@ -11,4 +11,4 @@ Hey what's up? I'm xenclash, a <ruby>Cybersecurity Engineer<rt><ins>サイバー
 
 <hr/>
 <a accesskey="r" href="https://www.youtube.com/watch?v=Lti_Dr5ceSw&list=RDLti_Dr5ceSw&start_radio=1"></a>
-<sup>🎵 <kbd>Alt+Shift+R</kbd></sup>
+<sup>. ݁₊ 🔷⊹ . ݁💉˖ . ݁ <kbd>Alt+Shift+R</kbd></sup>
