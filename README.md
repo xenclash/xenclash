@@ -10,7 +10,7 @@ Hey what's up? I'm xenclash, a <ruby>Cybersecurity Engineer<rt><ins>サイバー
 
 ## 📧 Contact
 
-[Telegram](t.me/xenclash#)
+[Telegram](https://t.me/xenclash)
 
 contact.xenclash@pm.me
 
