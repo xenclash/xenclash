@@ -17,4 +17,4 @@ contact.xenclash@pm.me
 PGP Fingerprint: `e07d3c5e188dc21eccaeec945ed48aa4d60651e9`
 <hr/>
 <a accesskey="r" href="https://www.youtube.com/watch?v=Lti_Dr5ceSw&list=RDLti_Dr5ceSw&start_radio=1"></a>
-<sup>. ݁₊ 🔷⊹ . ݁💉˖ . ݁ <kbd>Alt+Shift+R</kbd></sup>
+<sup>. ݁₊ 🌐⊹ . ݁💉˖ . ݁ <kbd>Alt+Shift+R</kbd></sup>
