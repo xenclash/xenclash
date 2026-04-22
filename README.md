@@ -8,7 +8,7 @@ Hey what's up? I'm xenclash, a <ruby>Cybersecurity Engineer<rt><ins>サイバー
 
 - - -
 
-## 📧 Contact| 連絡 
+## 📧 Contact | 連絡 
 
 [Telegram](https://t.me/xenclash)
 
