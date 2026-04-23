@@ -1,3 +1,5 @@
+- - -
+
 ## 🔷 About me | 自己紹介
 
 Hey what's up? I'm xenclash, a <ruby>Cybersecurity Engineer<rt><ins>サイバーセキュリティエンジニア</ins></rt></ruby> | <ruby>CTF Competitor<rt><ins>CTFプレイヤー</ins></rt></ruby> | <ruby>Security Researcher<rt><ins>セキュリティ研究者</ins></rt></ruby> <img align="right" height="150" src="https://github.com/xenclash/xenclash/blob/main/icon1.png" />
@@ -15,6 +17,5 @@ Hey what's up? I'm xenclash, a <ruby>Cybersecurity Engineer<rt><ins>サイバー
 contact.xenclash@pm.me
 
 PGP Fingerprint: `e07d3c5e188dc21eccaeec945ed48aa4d60651e9`
-<hr/>
-<a accesskey="r" href="https://www.youtube.com/watch?v=Lti_Dr5ceSw&list=RDLti_Dr5ceSw&start_radio=1"></a>
-<sup>. ݁₊ 🌐⊹ . ݁💉˖ . ݁ <kbd>Alt+Shift+R</kbd></sup>
+
+- - -
