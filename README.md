@@ -11,11 +11,11 @@ Hey what's up? I'm xenclash, a <ruby>Cybersecurity Engineer<rt><ins>サイバー
 - - -
 
 ## 📧 Contact | 連絡 
-[Matrix](https://matrix.to/#/@xenclash:matrix.org)
+• [Matrix](https://matrix.to/#/@xenclash:matrix.org)
 
-[Telegram](https://t.me/xenclash)
+• [Telegram](https://t.me/xenclash)
 
-contact.xenclash@pm.me
+• contact.xenclash@pm.me
 
 PGP Fingerprint: `e07d3c5e188dc21eccaeec945ed48aa4d60651e9`
 
