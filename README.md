@@ -6,7 +6,7 @@ Hey what's up? I'm xenclash, a <ruby>Cybersecurity Engineer<rt><ins>サイバー
 
 ###
 
-<p align="left">I'm a Cybersecurity professional with a strong focus on Cloud and Network security. I specialize in securing cloud environments, network infrastructures, and ensuring systems are resilient against cyber threats.<br><br>In addition to my full time work, I also compete in Capture the flag (CTF) events, and do some Security Research where I discover vulnerabilities, working with organizations to strengthen their security.<br><br>• <mark>Cloud Security</mark>: Architecting and securing cloud infrastructures (AWS, Azure, Google Cloud, DigitalOcean)<br>• <mark>Network Security</mark>: Designing, securing, and optimizing scalable secure networks (Cisco, Palo Alto, Fortinet, Splunk)<br>• <mark>Security Research</mark>: Identifying vulnerabilities, and assisting organizations with suggestions and fixes. </p>
+<p align="left">I'm a Cybersecurity professional with a strong focus on Cloud and Network security. I specialize in securing cloud environments, network infrastructures, and ensuring systems are resilient against cyber threats.<br><br>In addition to my full-time work, I also compete in Capture the flag (CTF) events, and do some Security Research where I discover vulnerabilities, working with organizations to strengthen their security.<br><br>• <mark>Cloud Security</mark>: Architecting and securing cloud infrastructures (AWS, Azure, Google Cloud, DigitalOcean)<br>• <mark>Network Security</mark>: Designing, securing, and optimizing scalable secure networks (Cisco, Palo Alto, Fortinet, Splunk)<br>• <mark>Security Research</mark>: Identifying vulnerabilities, and assisting organizations with suggestions and fixes. </p>
 
 - - -
 
