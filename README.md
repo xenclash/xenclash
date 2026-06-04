@@ -8,6 +8,8 @@ Hey what's up? I'm xenclash, a <ruby>Security Engineer<rt><ins>セキュリテ�
 
 <p align="left">I'm a security professional with a strong focus on cloud and networking. I specialize in securing cloud environments, network infrastructures, and ensuring systems are resilient against potential cyber threats.<br><br>In addition to my full-time work, I also compete in capture the flag (CTF) events, and do some security research where I discover vulnerabilities, working with organizations to strengthen their security.<br><br>• <mark>Cloud Security</mark>: Architecting and securing cloud infrastructures (AWS, Azure, Google Cloud, DigitalOcean)<br>• <mark>Network Security</mark>: Designing, securing, and optimizing scalable secure networks (Cisco, Palo Alto, Fortinet, WireShark, Splunk)<br>• <mark>Security Research</mark>: Identifying vulnerabilities, and assisting organizations with suggestions and fixes. </p>
 
+`All projects were created and built by me, AI is used as a collaborative tool to refine and optimize.`
+
 - - -
 
 ## 📧 Contact | 連絡 
