@@ -15,4 +15,4 @@ I am a security professional specializing in cloud and network security, with a 
 
 • [Telegram](https://t.me/xenclash) <-- Use for casual exchanges.
 
-• contact.xenclash@pm.me <-- Use for business inquiries | Currently a full-time student.
+• contact.xenclash@pm.me <-- Use for business inquiries.
