@@ -1,6 +1,6 @@
 ### 🔷 About me | 自己紹介 <img align="right" height="150" src="https://github.com/xenclash/xenclash/blob/main/icon1.png" />
 
-Hey what's up? I'm xenclash, a <ruby>Security Engineer<rt><ins>セキュリティエンジニア<ins></rt></ruby> | <ruby>CTF Competitor<rt><ins>CTFプレイヤー</ins></rt></ruby> | <ruby>Security Researcher<rt><ins>セキュリティ研究者</ins></rt></ruby>
+Hey what's up? I'm xenclash, a <ruby>Security Engineer<rt><ins>セキュリティエンジニア<ins></rt></ruby> | <ruby>CTF Competitor<rt><ins>CTFプレイヤー</ins></rt></ruby> | <ruby>Security Researcher<rt><ins>セキュリティ研究者</ins></rt></ruby> from 🇺🇸
 
 ###
 
