@@ -4,3 +4,7 @@ I am a cybersecurity professional specializing in cloud and network security, wi
 More about me, and my contact information are available on my [website.](https://xenclash.dev)
 
 `All projects are built by me, AI is used as a collaborative tool to make suggestions and optimize.`
+
+<hr/>
+<a accesskey="r" href="https://www.youtube.com/watch?v=vvvvcpwFw5o&list=RDvvvvcpwFw5o&start_radio=1"></a>
+<sup>⋆✴︎˚｡⋆ ⊹₊ <kbd>Alt+Shift+R</kbd></sup>
